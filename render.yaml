@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: foxy-iptv
+    runtime: node
+    plan: free
+    buildCommand: npm install --prefix iptv_scan-main
+    startCommand: node iptv_scan-main/server.js
+    healthCheckPath: /health
+    envVars:
+      - key: ADMIN_KEY
+        sync: false
+      - key: PUBLIC_URL
+        sync: false
+      - key: HOST
+        value: 0.0.0.0
