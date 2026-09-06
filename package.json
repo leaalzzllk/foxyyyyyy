@@ -1,0 +1,12 @@
+{
+  "name": "foxy-iptv",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FOXY IPTV server",
+  "scripts": {
+    "start": "node iptv_scan-main/server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
