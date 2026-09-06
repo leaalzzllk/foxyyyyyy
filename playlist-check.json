@@ -1,0 +1,207 @@
+{
+  "source": "C:\\Users\\FELIPE\\Downloads\\iptv_scan-main\\playlist.m3u",
+  "checkedAt": "2026-09-05T23:28:37.862Z",
+  "total": 22,
+  "online": 22,
+  "offline": 0,
+  "results": [
+    {
+      "index": 1,
+      "name": "ConecTv",
+      "group": "Variedades",
+      "url": "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8",
+      "status": 206,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 2,
+      "name": "Master TV",
+      "group": "Variedades",
+      "url": "http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8",
+      "status": 206,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 3,
+      "name": "BAND FM (Vale)",
+      "group": "◆Rádio | 📻",
+      "url": "http://162.244.80.106:11011/;stream/1",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 4,
+      "name": "Gospel Campinas",
+      "group": "◆Rádio | 📻",
+      "url": "http://centova.nardele.com.br:4343/stream",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 5,
+      "name": "NAFTALINA",
+      "group": "◆Rádio | 📻",
+      "url": "http://paineldj5.com.br:8003/stream?type=.mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 6,
+      "name": "RADIO Jovem Pan FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://centova6.ciclanohost.com.br:9256/;",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 7,
+      "name": "RADIO PETROLINA FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://hd4.matutos.com.br:8324/;stream.mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 8,
+      "name": "RÁDIO 104 FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8651/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 9,
+      "name": "RÁDIO CAIÇARA FM/AM",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8654/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 10,
+      "name": "RÁDIO CAPÃO FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8656/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 11,
+      "name": "RÁDIO CONTINENTAL FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8650/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 12,
+      "name": "RÁDIO ELDORADO FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8652/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 13,
+      "name": "RÁDIO FM CIDREIRA",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8657/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 14,
+      "name": "RÁDIO FM EXPRESS",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8648/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 15,
+      "name": "RÁDIO FM PREMIUM",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8663/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 16,
+      "name": "RÁDIO FM TORRES",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8661/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 17,
+      "name": "RÁDIO FM TRAMANDAÍ",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8658/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 18,
+      "name": "RÁDIO FM XANGRI-LÁ",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8659/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 19,
+      "name": "RÁDIO IMBÉ FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8660/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 20,
+      "name": "RÁDIO LIBERDADE FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8655/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 21,
+      "name": "RÁDIO PAMPA FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8653/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 22,
+      "name": "S30 MaxCast Web Rádio",
+      "group": "◆Rádio | 📻",
+      "url": "http://s30.maxcast.com.br:8190/live",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    }
+  ]
+}

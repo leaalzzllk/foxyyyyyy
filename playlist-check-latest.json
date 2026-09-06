@@ -1,0 +1,3231 @@
+{
+  "source": "C:\\Users\\FELIPE\\Downloads\\iptv_scan-main\\playlist.m3u",
+  "checkedAt": "2026-09-06T01:57:41.395Z",
+  "total": 358,
+  "online": 349,
+  "offline": 9,
+  "results": [
+    {
+      "index": 1,
+      "name": "DJing SD",
+      "group": "Musicais",
+      "url": "https://www.djing.com/tv/29054-03.m3u8",
+      "status": 206,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 2,
+      "name": "DJing HD",
+      "group": "Musicais",
+      "url": "https://www.djing.com/tv/a-28904-04.m3u8",
+      "status": 206,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 3,
+      "name": "KroneHIT",
+      "group": "Musicais",
+      "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
+      "status": 206,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 4,
+      "name": "Ocko Star",
+      "group": "Musicais",
+      "url": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8",
+      "status": 206,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 5,
+      "name": "ON FM Portugal",
+      "group": "Musicais",
+      "url": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8",
+      "status": 206,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 6,
+      "name": "Retro Music TV",
+      "group": "Musicais",
+      "url": "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
+      "status": 206,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 7,
+      "name": "TV Rede Gospel",
+      "group": "Religiosos",
+      "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 8,
+      "name": "ConecTv",
+      "group": "Variedades",
+      "url": "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8",
+      "status": 206,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 9,
+      "name": "Master TV",
+      "group": "Variedades",
+      "url": "http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8",
+      "status": 206,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 10,
+      "name": "Bloomberg TV HD NY USA",
+      "group": "◆Canais | 🇺🇸",
+      "url": "https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 11,
+      "name": "Red Bull 1 HD USA",
+      "group": "◆Canais | 🇺🇸",
+      "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?IDMSFULL",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 12,
+      "name": "Red Bull 2 HD USA",
+      "group": "◆Canais | 🇺🇸",
+      "url": "http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 13,
+      "name": "Red Bull 3 HD USA",
+      "group": "◆Canais | 🇺🇸",
+      "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 14,
+      "name": "A Vida Moderna de Rocko",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=731&deviceId=5f6df6293a12e10007017396&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 15,
+      "name": "As  Pistas de Blue",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=707&deviceId=5f99aad4e82db50007fac4b2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 16,
+      "name": "FailArmy",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=502&deviceId=5f5141c1605ddf000748eb1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 17,
+      "name": "MTV Are you the One?",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=159&deviceId=5f6108d8cc331900075e98e4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 18,
+      "name": "MTV Pluto TV",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=157&deviceId=5f1212fb81e85c00077ae9ef&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 19,
+      "name": "Naruto",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=186&deviceId=5f6df5a173d7340007c559f7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 20,
+      "name": "Nick Clássico",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5f12151794c1800007a8ae63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 21,
+      "name": "Nick Jr. Club",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 22,
+      "name": "Os Três Patetas",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=108&deviceId=5f1eed3c29b39600073e2ec0&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 23,
+      "name": "Pluto TV Anime",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=182&deviceId=5f12136385bccc00070142ed&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 24,
+      "name": "Pluto TV Cine Comédia",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5f12101f0b12f00007844c7c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 25,
+      "name": "Pluto TV Cine Drama",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=63&deviceId=5f1210d14ae1f80007bafb1d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 26,
+      "name": "Pluto TV Cine Família",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=87&deviceId=5f171f032cd22e0007f17f3d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 27,
+      "name": "Pluto TV Cine Sucessos",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=52&deviceId=5f120e94a5714d00074576a1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 28,
+      "name": "Pluto TV Cine Terror",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=72&deviceId=5f12111c9e6c2c00078ef3bb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 29,
+      "name": "Pluto TV Fashionbox",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=563&deviceId=5f516730b78b7600079294f5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 30,
+      "name": "Pluto TV Filmes Ação",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=56&deviceId=5f120f41b7d403000783a6d6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 31,
+      "name": "Pluto TV Investigação",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=254&deviceId=5f32cf37c9ff2b00082adbc8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 32,
+      "name": "Pluto TV Junior",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=703&deviceId=5f12141b146d760007934ea7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 33,
+      "name": "Pluto TV Kids",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=721&deviceId=5f1214a637c6fd00079c652f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 34,
+      "name": "Pluto TV Natureza",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=271&deviceId=5f1213ba0ecebc00070e170f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 35,
+      "name": "Pluto TV Retrô",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=5f1212ad1728050007a523b8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 36,
+      "name": "Pluto TV Star Trek",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=50&deviceId=5f99ac4fded33000078f29ab&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 37,
+      "name": "Pluto TV Séries",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=101&deviceId=5f121262a189a800076b9386&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 38,
+      "name": "Porta dos Fundos",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=512&deviceId=5f36f2346ede750007332d11&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5716&deviceLon=-46.6443&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 39,
+      "name": "Retrô",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=101&deviceId=5f121262a189a800076b9386&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 40,
+      "name": "Star Trek",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=101&deviceId=5f121262a189a800076b9386&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 41,
+      "name": "The Pet Collective",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=505&deviceId=5f515ebac01c0f00080e8439&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 42,
+      "name": "Turma da Mônica",
+      "group": "◆Pluto | 🇧🇷",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=719&deviceId=5f997e44949bc70007a6941e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 43,
+      "name": "70s Cinema",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=96&deviceId=5f4d878d3d19b30007d2e782&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 44,
+      "name": "80s Rewind",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=95&deviceId=5ca525b650be2571e3943c63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 45,
+      "name": "90s Throwback",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=94&deviceId=5f4d86f519358a00072b978e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 46,
+      "name": "Adventure TV",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5938876b78d8d9c074c3c657/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=675&deviceId=5938876b78d8d9c074c3c657&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 47,
+      "name": "After School Cartoons",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=990&deviceId=56171fafada51f8004c4b40f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 48,
+      "name": "AFV TV",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82b55ad0213e00079c509f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=494&deviceId=5e82b55ad0213e00079c509f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 49,
+      "name": "All Reality by WE tv",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82530945600e0007ca076c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=310&deviceId=5e82530945600e0007ca076c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 50,
+      "name": "America's Test Kitchen",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=605&deviceId=5e84f54a82f05300080e6746&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 51,
+      "name": "American Gladiators",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815e489b315b154db2e053/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=303&deviceId=5d815e489b315b154db2e053&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 52,
+      "name": "Anime All Ages",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=830&deviceId=5be4c6311843b56328bce619&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 53,
+      "name": "Anime All Day",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=830&deviceId=5812b7d3249444e05d09cc49&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 54,
+      "name": "Antiques Roadshow UK",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=621&deviceId=5ce44810b421747ae467b7cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 55,
+      "name": "AWE Encore",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e7cf6608c805600078872f2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=647&deviceId=5e7cf6608c805600078872f2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 56,
+      "name": "Awesomeness TV",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5595e43c66ace1652e63c6a2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=194&deviceId=5595e43c66ace1652e63c6a2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 57,
+      "name": "Baywatch",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=142&deviceId=5d815eb889bca2ce7b746fdd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 58,
+      "name": "beIN SPORTS XTRA",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 59,
+      "name": "Bellator MMA",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 60,
+      "name": "BET Her",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=175&deviceId=5d51e6949ab8e2b35bdcaa9f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 61,
+      "name": "BET Pluto TV",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=174&deviceId=5ca670f6593a5d78f0e85aed&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 62,
+      "name": "Beverly Hillbillies",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7796e470510900070d4e3d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=512&deviceId=5f7796e470510900070d4e3d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 63,
+      "name": "Beverly Hills 90210",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4db961034718b2f52f9e52/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=512&deviceId=5d4db961034718b2f52f9e52&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 64,
+      "name": "Big Sky Conference",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59641d9173ac1fec2fc01f17/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=752&deviceId=59641d9173ac1fec2fc01f17&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 65,
+      "name": "Black Cinema",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 66,
+      "name": "Black Ink Crew",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e2bceca5b4b2c0e06c50/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=285&deviceId=5d51e2bceca5b4b2c0e06c50&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 67,
+      "name": "Black News Channel",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1efad04320070007dbb60b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=230&deviceId=5f1efad04320070007dbb60b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 68,
+      "name": "Blaze Live",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=238&deviceId=5e46fba0c43b0d00096e5ac1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 69,
+      "name": "Bloomberg TV",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=224&deviceId=54ff7ba69222cb1c2624c584&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 70,
+      "name": "British TV",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=154&deviceId=5b68a18823ecb93393cba2f1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 71,
+      "name": "BUZZR",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bfbe4ced4f7b601b12e6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=540&deviceId=5812bfbe4ced4f7b601b12e6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 72,
+      "name": "Cats 24/7",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=635&deviceId=599375885ceaac3cabccbed7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 73,
+      "name": "CBS Sports HQ",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=702&deviceId=5e9f2c05172a0f0007db4786&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 74,
+      "name": "CBSN Bay Area",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1afb21486df0007abc57c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1021&deviceId=5eb1afb21486df0007abc57c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 75,
+      "name": "CBSN Boston",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1af2ad345340008fccd1e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1022&deviceId=5eb1af2ad345340008fccd1e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 76,
+      "name": "CBSN Dallas",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eceb0d4065c240007688ec6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1025&deviceId=5eb1b12146cba40007aa7e5d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 77,
+      "name": "CBSN Denver",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b12146cba40007aa7e5d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1025&deviceId=5eb1b12146cba40007aa7e5d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 78,
+      "name": "CBSN Los Angeles",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc481cda1d430000948a1b4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=207&deviceId=5dc481cda1d430000948a1b4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 79,
+      "name": "CBSN Minnesota",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b0bf2240d8000732a09c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1028&deviceId=5eb1b0bf2240d8000732a09c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 80,
+      "name": "CBSN New York",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc48170e280c80009a861ab/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=206&deviceId=5dc48170e280c80009a861ab&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 81,
+      "name": "CBSN Philly",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b05ea168cc000767ba67/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1030&deviceId=5eb1b05ea168cc000767ba67&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 82,
+      "name": "CBSN Pittsburgh",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b17aa5277e00083f6521/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1031&deviceId=5eb1b17aa5277e00083f6521&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 83,
+      "name": "Chassy",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b6b285823ecb93393cbf766/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=687&deviceId=5b6b285823ecb93393cbf766&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 84,
+      "name": "Cheddar",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812afe1d0f0b8d55dde67fa/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=226&deviceId=5812afe1d0f0b8d55dde67fa&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 85,
+      "name": "Classic Movies Channel",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=561c5b0dada51f8004c4d855&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 86,
+      "name": "Classic Toons TV",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=548&deviceId=562ea53fa9060c5a7d463e74&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 87,
+      "name": "Classic TV Comedy",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e32b297f96000768f928/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=501&deviceId=5f15e32b297f96000768f928&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 88,
+      "name": "Classic TV Drama",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e3cccf49290007053c67/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=520&deviceId=5f15e3cccf49290007053c67&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 89,
+      "name": "CMT Pluto TV",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=182&deviceId=5dcc42446750e200093b15e2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 90,
+      "name": "CMT Westerns",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=103&deviceId=5b4e94282d4ec87bdcbb87cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 91,
+      "name": "CNET",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=228&deviceId=56283c8769ba54637dea0464&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 92,
+      "name": "Cold Case Files",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c37d6712de254456f7ec340/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=373&deviceId=5c37d6712de254456f7ec340&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 93,
+      "name": "Combate World",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=970&deviceId=5bb1ac3e268cae539bcedb07&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 94,
+      "name": "Comedy Central Latino",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=967&deviceId=5cf96dad1652631e36d43320&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 95,
+      "name": "Comedy Central Pluto TV",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 96,
+      "name": "Comedy Central Stand-Up",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca675d6593a5d78f0e85c2e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=466&deviceId=5ca675d6593a5d78f0e85c2e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 97,
+      "name": "Complex Networks",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1b439ea5c9e53afd21325/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=197&deviceId=5bb1b439ea5c9e53afd21325&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 98,
+      "name": "COPS",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=367&deviceId=5e1f7e089f23700009d66303&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 99,
+      "name": "Court TV",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=395&deviceId=5dae0b4841a7d0000938ddbd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 100,
+      "name": "Crime Investigation Australia",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea18cd42ee5410007e349dc/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=367&deviceId=5ea18cd42ee5410007e349dc&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 101,
+      "name": "Crime Scene Solvers",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767790d0438aceb41d03ae/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=367&deviceId=5d767790d0438aceb41d03ae&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 102,
+      "name": "CSI",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=355&deviceId=5efbd29e4aa26700076c0d06&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 103,
+      "name": "Dabl",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef0fbed39ff730007383a69/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=614&deviceId=5ef0fbed39ff730007383a69&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 104,
+      "name": "Dallas Cowboys Cheer",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=315&deviceId=5d40855b3fb0855028c99b6f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 105,
+      "name": "Dark Shadows",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef3958c66ac540007d6e6a7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=535&deviceId=5ef3958c66ac540007d6e6a7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 106,
+      "name": "Deadly Women",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca1df0d50be2571e393ad31/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=165&deviceId=5ca1df0d50be2571e393ad31&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 107,
+      "name": "Deal or No Deal",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9debf8c881310007d7bde1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=165&deviceId=5e9debf8c881310007d7bde1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 108,
+      "name": "Degrassi",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6eeb85c05dfc257e5a50c4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=144&deviceId=5c6eeb85c05dfc257e5a50c4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 109,
+      "name": "Demand Africa",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f061242a7951e00075d7413/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=172&deviceId=5f061242a7951e00075d7413&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 110,
+      "name": "Doctor Who Classic",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=532&deviceId=5ce4475cd43850831ca91ce7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 111,
+      "name": "Dog the Bounty Hunter",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=381&deviceId=5bee1a7359ee03633e780238&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 112,
+      "name": "Dogs 24/7",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b329e0a7b9d8872aeb49ceb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=636&deviceId=5b329e0a7b9d8872aeb49ceb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 113,
+      "name": "Dora TV",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 114,
+      "name": "Dr. Oz",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac43a40fe4ab0007f478ac/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5fac43a40fe4ab0007f478ac&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 115,
+      "name": "Duck Dynasty",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6b54b9e67cf60007d4cef1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=172&deviceId=5f6b54b9e67cf60007d4cef1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 116,
+      "name": "ET Live",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=190&deviceId=5dc0c78281eddb0009a02d5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 117,
+      "name": "FailArmy",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/554158e864526b29254ff105/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=498&deviceId=554158e864526b29254ff105&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 118,
+      "name": "Faith TV",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c58a539fae3812612f33ca3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=643&deviceId=5c58a539fae3812612f33ca3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 119,
+      "name": "Family Ties",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f77939a630f530007dde654/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=504&deviceId=5f77939a630f530007dde654&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 120,
+      "name": "FBI Files",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb6f6f9a461406ffe4022cf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=643&deviceId=5cb6f6f9a461406ffe4022cf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 121,
+      "name": "Fear Factor",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=301&deviceId=588128d17d64bc0d0f385c34&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 122,
+      "name": "Fight",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=726&deviceId=5812b0f2237a6ff45d16c3f9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 123,
+      "name": "Flicks of Fury",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 124,
+      "name": "Food TV",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=601&deviceId=5877ac8cb791f4eb4a140d81&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 125,
+      "name": "Forensic Files",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=370&deviceId=5bb1af6a268cae539bcedb0a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 126,
+      "name": "Forensic Files en ESP",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=933&deviceId=5e94cd036cc69d0007e8a1ba&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 127,
+      "name": "FOX Sports",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 128,
+      "name": "FrontDoor",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=612&deviceId=5938888cd045ffce74cf9048&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 129,
+      "name": "Funny AF",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=450&deviceId=580e87ff497c73ba2f321dd3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 130,
+      "name": "Game Show Central",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=167&deviceId=5e54187aae660e00093561d6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 131,
+      "name": "Gameplay: Roblox",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51dd5d369acdb278dfb05d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=816&deviceId=5d51dd5d369acdb278dfb05d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 132,
+      "name": "GameSpot",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f186626dcd00d0007936443/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=806&deviceId=5f186626dcd00d0007936443&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 133,
+      "name": "Ghost Dimension",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c45f5a9d40d58066869fa60/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=167&deviceId=5c45f5a9d40d58066869fa60&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 134,
+      "name": "Ghost Hunters",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f27bbe4779de70007a6d1c1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=167&deviceId=5f27bbe4779de70007a6d1c1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 135,
+      "name": "GLORY Kickboxing",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=736&deviceId=5417a212ff9fba68282fbf5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 136,
+      "name": "Gordon Ramsay's Kitchen",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=294&deviceId=5b4e99f4423e067bd6df6903&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 137,
+      "name": "Happy Days",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7794162a4559000781fc12/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=505&deviceId=5f7794162a4559000781fc12&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 138,
+      "name": "Hillsong Channel",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486b87428fe37d8cadba44/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=898&deviceId=5d486b87428fe37d8cadba44&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 139,
+      "name": "Home for the Holidays",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7f8698ec435a000785810b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=253&deviceId=5f7f8698ec435a000785810b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 140,
+      "name": "HSN",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8a02476b72230007e62b7d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=625&deviceId=5f8a02476b72230007e62b7d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 141,
+      "name": "IGN",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=805&deviceId=561c5f613286e48904fb2677&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 142,
+      "name": "IMPACT Wrestling",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 143,
+      "name": "Inspector Gadget",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d765786aad587cf4d0e2bf6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=5d765786aad587cf4d0e2bf6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 144,
+      "name": "James Bond 007",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=514&deviceId=5f4d83e0a382c00007bc02e7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 145,
+      "name": "Johnny Carson TV",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66928133461100077dfd73/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=514&deviceId=5e66928133461100077dfd73&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 146,
+      "name": "Judge Nosey",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9decb953e157000752321c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=160&deviceId=5e9decb953e157000752321c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 147,
+      "name": "Kevin Hart LOL",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5af09e645126c2157123f9eb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=462&deviceId=5af09e645126c2157123f9eb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 148,
+      "name": "Leverage",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d9ccebb60a26500097dc5a4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=140&deviceId=5d9ccebb60a26500097dc5a4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 149,
+      "name": "Little Baby Bum",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb301b7395671000780d100/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=995&deviceId=5eb301b7395671000780d100&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 150,
+      "name": "Live Music Replay",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=855&deviceId=5873fc21cad696fb37aa9054&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 151,
+      "name": "Lively Place",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc1cb279c91420009db261d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=615&deviceId=5dc1cb279c91420009db261d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 152,
+      "name": "Logo Pluto TV",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=187&deviceId=5ce5a8954311f992edbe1da2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 153,
+      "name": "Loupe",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f0cb39b4ae1f80007bad585/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=694&deviceId=5f0cb39b4ae1f80007bad585&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 154,
+      "name": "Love & Hip Hop",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=283&deviceId=5d51ddf0369acdb278dfb05e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 155,
+      "name": "Lucha Libre AAA",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=971&deviceId=5c01df1759ee03633e7b272c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 156,
+      "name": "Mario and Sonic",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dbc264e0451770009ed742f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=523&deviceId=5dbc264e0451770009ed742f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 157,
+      "name": "Midsomer Murders",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f77977bd924d80007eee60c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=523&deviceId=5f77977bd924d80007eee60c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 158,
+      "name": "MinecrafTV",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b821249444e05d09cc4c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=815&deviceId=5812b821249444e05d09cc4c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 159,
+      "name": "Mission: Impossible",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cbf6a868a1bce4a3d52a5e9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=385&deviceId=5cbf6a868a1bce4a3d52a5e9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 160,
+      "name": "MLS",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=712&deviceId=5cb626cfcaf83414128f439c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 161,
+      "name": "MST3K",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=488&deviceId=545943f1c9f133a519bbac92&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 162,
+      "name": "MTV Biggest Pop",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=870&deviceId=5d14fd1a252d35decbc4080c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 163,
+      "name": "MTV Block Party",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=868&deviceId=5d3609cd6a6c78d7672f2a81&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 164,
+      "name": "MTV Dating",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=330&deviceId=5ca6899a37b88b269472ea4b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 165,
+      "name": "MTV Latino",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=965&deviceId=5cf96d351652631e36d4331f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 166,
+      "name": "MTV Pluto TV",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=178&deviceId=5ca672f515a62078d2ec0ad2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 167,
+      "name": "MTV Spankin' New",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=869&deviceId=5d14fdb8ca91eedee1633117&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 168,
+      "name": "MythBusters",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bd833b41843b56328bac189/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=869&deviceId=5bd833b41843b56328bac189&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 169,
+      "name": "Narco Novelas",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66900909b4410007e74a50/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=944&deviceId=5e66900909b4410007e74a50&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 170,
+      "name": "Narcos",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7274806621ff00072651ff/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=358&deviceId=5f7274806621ff00072651ff&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 171,
+      "name": "Naruto",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=836&deviceId=5da0c85bd2c9c10009370984&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 172,
+      "name": "NASA TV",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/54ee5ea872c1cbb844546d3f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=690&deviceId=54ee5ea872c1cbb844546d3f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 173,
+      "name": "Naturescape",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=692&deviceId=5812bd9f249444e05d09cc4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 174,
+      "name": "NBC News NOW",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=213&deviceId=5df97894467dfa00091c873c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 175,
+      "name": "NewsmaxTV",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/pluto.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 176,
+      "name": "NFL Channel",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 177,
+      "name": "Nick Jr. Latino",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=998&deviceId=5d8d0ec7b0f7015fbe0a3bf7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 178,
+      "name": "Nick Jr. Pluto TV",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 179,
+      "name": "Nick Latino",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=997&deviceId=5d8d08395f39465da6fb3ec4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 180,
+      "name": "Nick Pluto TV",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 181,
+      "name": "Nosey",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5aec96ec5126c2157123c657/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=159&deviceId=5aec96ec5126c2157123c657&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 182,
+      "name": "Novelas Drama",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=942&deviceId=5e84dbf4a838b60007ffbba1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 183,
+      "name": "Novelas Romance",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=941&deviceId=5e84db2db3851800077c871e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 184,
+      "name": "Novelas Thriller",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=943&deviceId=5e84dc59026b9b000766f9a2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 185,
+      "name": "Nuestra Vision",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=920&deviceId=5e6690befbdf780007f78158&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 186,
+      "name": "OAN Encore",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e7cf6c7b156d500078c5f44/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=242&deviceId=5e7cf6c7b156d500078c5f44&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 187,
+      "name": "One Day at a Time",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e4ee1c1f8928000093d0425/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=834&deviceId=5e4ee1c1f8928000093d0425&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 188,
+      "name": "One Piece",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=834&deviceId=5f7790b3ed0c88000720b241&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 189,
+      "name": "Paramount Movie Channel",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 190,
+      "name": "People Are Awesome",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54169f4b9b25000994a303/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=340&deviceId=5e54169f4b9b25000994a303&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 191,
+      "name": "PeopleTV",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c2c3ae40e64939daad8b76/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=192&deviceId=59c2c3ae40e64939daad8b76&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 192,
+      "name": "PGA TOUR",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=713&deviceId=5de94dacb394a300099fa22a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 193,
+      "name": "Pluto TV Action",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 194,
+      "name": "Pluto TV Action Sports",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=759&deviceId=5db867744f229f0009266784&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 195,
+      "name": "Pluto TV Animals",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=666&deviceId=56b27f85ff3037045055037e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 196,
+      "name": "Pluto TV Backcountry",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cabdf1437b88b26947346b2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=755&deviceId=5cabdf1437b88b26947346b2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 197,
+      "name": "Pluto TV Best Life",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=630&deviceId=5887ba337b8e94223eb121bd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 198,
+      "name": "Pluto TV Cars",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=663&deviceId=5812b3a4249444e05d09cc46&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 199,
+      "name": "Pluto TV Celebrity",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8bf1472907815f66a866dd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=320&deviceId=5d8bf1472907815f66a866dd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 200,
+      "name": "Pluto TV Cine",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=902&deviceId=5cf96b1c4f1ca3f0629f4bf0&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 201,
+      "name": "Pluto TV Cine AcciÃ³n",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=904&deviceId=5d8d164d92e97a5e107638d2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 202,
+      "name": "Pluto TV Cine Estelar",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=901&deviceId=5cf968040ab7d8f181e6a68b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 203,
+      "name": "Pluto TV Cine Terror",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=913&deviceId=5d8d180092e97a5e107638d3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 204,
+      "name": "Pluto TV Cocina",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=956&deviceId=5d8d0fbaa8742fa3093899da&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 205,
+      "name": "Pluto TV Comedy",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 206,
+      "name": "Pluto TV Crime Drama",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f31fd1b4c510e00071c3103/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=350&deviceId=5f31fd1b4c510e00071c3103&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 207,
+      "name": "Pluto TV Crime Movies",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 208,
+      "name": "Pluto TV Cult Films",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=109&deviceId=5c665db3e6c01b72c4977bc2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 209,
+      "name": "Pluto TV Documentaries",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=91&deviceId=5b85a7582921777994caea63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 210,
+      "name": "Pluto TV Drama",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5b4e92e4694c027be6ecece1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 211,
+      "name": "Pluto TV Drama Life",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f24662bebe0f0000767de32/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=332&deviceId=5f24662bebe0f0000767de32&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 212,
+      "name": "Pluto TV Election",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bc4d687da4f1f096e217e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=200&deviceId=5bc4d687da4f1f096e217e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 213,
+      "name": "Pluto TV Fantastic",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=66&deviceId=5b64a245a202b3337f09e51d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 214,
+      "name": "Pluto TV Gamer",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=801&deviceId=5ca7f16c37b88b2694731c79&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 215,
+      "name": "Pluto TV History",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=651&deviceId=5a4d35dfa5c02e717a234f86&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 216,
+      "name": "Pluto TV Horror",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 217,
+      "name": "Pluto TV Investiga",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=936&deviceId=5cf96b8f4f1ca3f0629f4bf1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 218,
+      "name": "Pluto TV Kids",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=989&deviceId=51c75f7bb6f26ba1cd00002f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 219,
+      "name": "Pluto TV Kids Animation",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=976&deviceId=5db0ad56edc89300090d2ebb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 220,
+      "name": "Pluto TV Lives",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8beeb39b5d5d5f8c672530/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=276&deviceId=5d8beeb39b5d5d5f8c672530&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 221,
+      "name": "Pluto TV Love Stories",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e181520cfa000771ce79/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=147&deviceId=5f15e181520cfa000771ce79&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 222,
+      "name": "Pluto TV Military",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=655&deviceId=5bb3fea0f711fd76340eebff&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 223,
+      "name": "Pluto TV Mundo",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=959&deviceId=5d8d103f031154a4172d262b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 224,
+      "name": "Pluto TV Naturaleza",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=962&deviceId=5d8d10ce06a9665fe54bf74a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 225,
+      "name": "Pluto TV News",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=202&deviceId=5268abcd0ce20a8472000114&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 226,
+      "name": "Pluto TV Paranormal",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=669&deviceId=5adf96e3e738977e2c31cb04&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 227,
+      "name": "Pluto TV Realities ESP",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=953&deviceId=5d93b4d71754e6a4298d086e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 228,
+      "name": "Pluto TV Reality",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8bf0b06d2d855ee15115e3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=275&deviceId=5d8bf0b06d2d855ee15115e3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 229,
+      "name": "Pluto TV Romance",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=70&deviceId=5a66795ef91fef2c7031c599&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 230,
+      "name": "Pluto TV Sci-Fi",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=151&deviceId=5b4fc274694c027be6ed3eea&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 231,
+      "name": "Pluto TV Science",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=672&deviceId=563a970aa1a1f7fe7c9daad7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 232,
+      "name": "Pluto TV Sports",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=725&deviceId=56340779a738201b4ccfeac9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 233,
+      "name": "Pluto TV Spotlight",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=51&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 234,
+      "name": "Pluto TV Staff Picks",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d863b98b41000076cd061/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=90&deviceId=5f4d863b98b41000076cd061&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 235,
+      "name": "Pluto TV Suspense",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e281b0b8840007324b55/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=149&deviceId=5f15e281b0b8840007324b55&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 236,
+      "name": "Pluto TV Terror",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 237,
+      "name": "Pluto TV Thrillers",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=74&deviceId=5b4e69e08291147bd04a9fd7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 238,
+      "name": "Pluto TV Travel",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=678&deviceId=59c01b1953680139c6ae9d4d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 239,
+      "name": "Pluto TV True Crime",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=365&deviceId=5812be1c249444e05d09cc50&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 240,
+      "name": "Pluto TV Tween",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=991&deviceId=5db0ae5af8797b00095c0794&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 241,
+      "name": "Pluto TV Weddings",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877acecb16bb1e042ee453f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=632&deviceId=5877acecb16bb1e042ee453f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 242,
+      "name": "pocket.watch",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0a40e8ee0d000975e99b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=993&deviceId=5dae0a40e8ee0d000975e99b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 243,
+      "name": "Police Women",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e79c2f280389000077242a8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=993&deviceId=5e79c2f280389000077242a8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 244,
+      "name": "Privacy Policy",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b36abcddfb1f0729a3a7dab/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=899&deviceId=5b36abcddfb1f0729a3a7dab&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 245,
+      "name": "PursuitUP",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486bed428fe37d8cadba45/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=756&deviceId=5d486bed428fe37d8cadba45&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 246,
+      "name": "Red Bull TV",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b22d1ee2795d0021bea5889/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=762&deviceId=5b22d1ee2795d0021bea5889&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 247,
+      "name": "Rescue 911",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e831e9fe730007706acb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=277&deviceId=5f21e831e9fe730007706acb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 248,
+      "name": "RiffTrax",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=489&deviceId=58d947b9e420d8656ee101ab&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 249,
+      "name": "Sabrina the Teenage Witch",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d94a5451754e6a4298d1059/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=542&deviceId=5d94a5451754e6a4298d1059&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 250,
+      "name": "Stand-Up TV",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=468&deviceId=5637d31f319573e26b64040b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 251,
+      "name": "Star Trek",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=150&deviceId=5efbd39f8c4ce900075d7698&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 252,
+      "name": "Stories by AMC",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=135&deviceId=5e8254118601b80007b4b7ae&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 253,
+      "name": "Survivor",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=296&deviceId=5f21e7b24744c60007c1f6fc&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 254,
+      "name": "TBN",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486b2eeddd9576d66f9066/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=644&deviceId=5d486b2eeddd9576d66f9066&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 255,
+      "name": "The Addams Family",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=511&deviceId=5d81607ab737153ea3c1c80e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 256,
+      "name": "The Amazing Race",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=297&deviceId=5f21e8a6e2f12b000755afdb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 257,
+      "name": "The Asylum",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 258,
+      "name": "The Carol Burnett Show",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef396d1be50a3000722808b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=516&deviceId=5ef396d1be50a3000722808b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 259,
+      "name": "The Challenge",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d48685da7e9f476aa8a1888/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=298&deviceId=5d48685da7e9f476aa8a1888&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 260,
+      "name": "The First",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486acc34ceb37d3c458a64/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=244&deviceId=5d486acc34ceb37d3c458a64&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 261,
+      "name": "The Love Boat",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7794a788d29000079d2f07/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=509&deviceId=5f7794a788d29000079d2f07&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 262,
+      "name": "The New Detectives",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5aea40b35126c2157123aa64/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=376&deviceId=5aea40b35126c2157123aa64&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 263,
+      "name": "The Pet Collective",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=637&deviceId=5bb1ad55268cae539bcedb08&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 264,
+      "name": "The Price is Right",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7791b8372da90007fd45e6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=637&deviceId=5f7791b8372da90007fd45e6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 265,
+      "name": "The Rifleman",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e825550e758c700077b0aef/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=529&deviceId=5e825550e758c700077b0aef&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 266,
+      "name": "The Walking Dead ESP",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=925&deviceId=5e82bb378601b80007b4bd78&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=34.0485&deviceLon=-118.2529&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 267,
+      "name": "This Old House",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=618&deviceId=5d51e791b7dba3b2ae990ab2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 268,
+      "name": "Three's Company",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef3977e5d773400077de284/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=508&deviceId=5ef3977e5d773400077de284&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 269,
+      "name": "TODAY",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d695f7db53adf96b78e7ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=234&deviceId=5d695f7db53adf96b78e7ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 270,
+      "name": "TokuSHOUTsu",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=848&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 271,
+      "name": "Tosh.0",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae084727c8af0009fe40a4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=470&deviceId=5dae084727c8af0009fe40a4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 272,
+      "name": "TOTALLY TURTLES",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=983&deviceId=5d0c16d686454ead733d08f8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 273,
+      "name": "TV Land Drama",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=130&deviceId=5d40bebc5e3d2750a2239d7e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 274,
+      "name": "TV Land Sitcoms",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=455&deviceId=5c2d64ffbdf11b71587184b8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 275,
+      "name": "TYT Network",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5331d5fb753499095a00045a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=246&deviceId=5331d5fb753499095a00045a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 276,
+      "name": "Unsolved Mysteries",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=379&deviceId=5b4e96a0423e067bd6df6901&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 277,
+      "name": "Vevo Pop",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 278,
+      "name": "VH1 Hip Hop Family",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d71561df6f2e6d0b6493bf5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=284&deviceId=5d71561df6f2e6d0b6493bf5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 279,
+      "name": "VH1 I Love Reality",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=282&deviceId=5d7154fa8326b6ce4ec31f2e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 280,
+      "name": "Voyager Documentaries",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=681&deviceId=589aa03df9ba56a84197a560&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 281,
+      "name": "WeatherNation",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=217&deviceId=5bdce04659ee03633e758130&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 282,
+      "name": "Western TV",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=526&deviceId=5e8df4bc16e34700077e77d3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 283,
+      "name": "Wild 'N Out",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=480&deviceId=5d48678d34ceb37d3c458a55&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 284,
+      "name": "Wings",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7792f6e093980007e02945/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=456&deviceId=5f7792f6e093980007e02945&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 285,
+      "name": "Wipeout",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ab3e1242be690697279c75d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=305&deviceId=5ab3e1242be690697279c75d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 286,
+      "name": "World Poker Tour",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=770&deviceId=5616f9c0ada51f8004c4b091&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 287,
+      "name": "Yo! MTV",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=873&deviceId=5d14fc31252d35decbc4080b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 288,
+      "name": "Yu-Gi-Oh",
+      "group": "◆Pluto | 🇺🇸",
+      "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=840&deviceId=5f4ec10ed9636f00089b8c89&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 289,
+      "name": "Araras FM 107.7*",
+      "group": "◆Rádio | 📻",
+      "url": "http://radio1.suaradionanet.net:10841/stream?type=.flv",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 290,
+      "name": "ATLANTIDA FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8?wowzasessionid=1838501070",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 291,
+      "name": "Atlantida FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8?wowzasessionid=960888114",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 292,
+      "name": "BAND FM (Vale)",
+      "group": "◆Rádio | 📻",
+      "url": "http://162.244.80.106:11011/;stream/1",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 293,
+      "name": "Cana da Galileia",
+      "group": "◆Rádio | 📻",
+      "url": "http://servidor28.brlogic.com:8336/live",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 294,
+      "name": "COCA COLA FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://listen.181fm.com:7080/181-power_128k.mp3",
+      "status": 206,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 295,
+      "name": "CRUZEIRO AM",
+      "group": "◆Rádio | 📻",
+      "url": "http://radio2.suaradionanet.net:10534/stream?type=.flv",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 296,
+      "name": "ESTAÁO JC - POMBAL",
+      "group": "◆Rádio | 📻",
+      "url": "http://streaming15.hstbr.net:8224/live",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 297,
+      "name": "Fanatica FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://noasrv.caster.fm:10156/live",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 298,
+      "name": "Gospel Campinas",
+      "group": "◆Rádio | 📻",
+      "url": "http://centova.nardele.com.br:4343/stream",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 299,
+      "name": "LIBERDADE 95.9 FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://streaming11.hstbr.net:8060/live?type=.flv",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 300,
+      "name": "NAFTALINA",
+      "group": "◆Rádio | 📻",
+      "url": "http://paineldj5.com.br:8003/stream?type=.mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 301,
+      "name": "Radio 93 Fm (Fortaleza)",
+      "group": "◆Rádio | 📻",
+      "url": "http://verdesmares.zoeweb.tv:1935/fm93/stream/chunklist_w1982398385.m3u8",
+      "status": 206,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 302,
+      "name": "RADIO Anos 2000",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/147396460892793/aac.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 303,
+      "name": "RADIO Anos 80",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 304,
+      "name": "RADIO Anos 90",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 305,
+      "name": "Radio Atlanta",
+      "group": "◆Rádio | 📻",
+      "url": "http://143.208.11.104:8064/stream",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 306,
+      "name": "Radio Atlantida Fm",
+      "group": "◆Rádio | 📻",
+      "url": "http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8?wowzasessionid=491854855",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 307,
+      "name": "RADIO AtlÃ¢ntida FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 308,
+      "name": "RADIO EletrÃ´nica",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 309,
+      "name": "RADIO Folk",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 310,
+      "name": "RADIO ForrÃ³",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/147015501223418/aac.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 311,
+      "name": "RADIO Funk",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 312,
+      "name": "RADIO Gospel",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 313,
+      "name": "RADIO Gospel Internacional",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 314,
+      "name": "RADIO Hip-Hop",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 315,
+      "name": "RADIO J-Pop",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 316,
+      "name": "RADIO Jovem Pan FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://centova6.ciclanohost.com.br:9256/;",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 317,
+      "name": "RADIO K-Pop",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 318,
+      "name": "RADIO Latina",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 319,
+      "name": "RADIO MPB",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 320,
+      "name": "RADIO Pagode",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/147015499779090/aac.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 321,
+      "name": "RADIO PETROLINA FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://hd4.matutos.com.br:8324/;stream.mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 322,
+      "name": "RADIO Pop",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 323,
+      "name": "RADIO Pop Nacional",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 324,
+      "name": "RADIO Pop Rock",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 325,
+      "name": "RADIO Pop Rock Nacional",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 326,
+      "name": "RADIO R&B",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/1467745876337223/aac.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 327,
+      "name": "RADIO Reggae",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 328,
+      "name": "RADIO Rock",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 329,
+      "name": "RADIO RomÃ¢nticas",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 330,
+      "name": "RADIO Sertanejo",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 331,
+      "name": "RADIO Sertanejo RomÃ¢ntico",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 332,
+      "name": "RFI",
+      "group": "◆Rádio | 📻",
+      "url": "http://live02.rfi.fr/rfibrasil-64k.mp3",
+      "status": 0,
+      "ok": false,
+      "error": "timeout"
+    },
+    {
+      "index": 333,
+      "name": "RÁDIO 104 FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8651/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 334,
+      "name": "RÁDIO ATLÂNTIDA FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/http-live/atl_poa.sdp/playlist.m3u8",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 335,
+      "name": "RÁDIO CAIÇARA FM/AM",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8654/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 336,
+      "name": "RÁDIO CAPÃO FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8656/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 337,
+      "name": "RÁDIO CONTINENTAL FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8650/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 338,
+      "name": "RÁDIO ELDORADO FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8652/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 339,
+      "name": "RÁDIO EVANGELICA FM PE",
+      "group": "◆Rádio | 📻",
+      "url": "http://directradios.net:8343/stream2",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 340,
+      "name": "RÁDIO FM CIDREIRA",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8657/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 341,
+      "name": "RÁDIO FM EXPRESS",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8648/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 342,
+      "name": "RÁDIO FM PREMIUM",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8663/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 343,
+      "name": "RÁDIO FM TORRES",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8661/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 344,
+      "name": "RÁDIO FM TRAMANDAÍ",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8658/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 345,
+      "name": "RÁDIO FM XANGRI-LÁ",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8659/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 346,
+      "name": "RÁDIO IMBÉ FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8660/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 347,
+      "name": "RÁDIO LIBERDADE FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8655/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 348,
+      "name": "RÁDIO PAMPA FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://cast4.audiostream.com.br:8653/mp3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 349,
+      "name": "RÁDIO VIBE FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://servidor36.brlogic.com:8180/live",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 350,
+      "name": "Rádio Truckers FM",
+      "group": "◆Rádio | 📻",
+      "url": "http://radio.truckers.fm",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "index": 351,
+      "name": "S30 MaxCast Web Rádio",
+      "group": "◆Rádio | 📻",
+      "url": "http://s30.maxcast.com.br:8190/live",
+      "status": 0,
+      "ok": false,
+      "error": "timeout"
+    },
+    {
+      "index": 352,
+      "name": "SARA NOSSA TERRA",
+      "group": "◆Rádio | 📻",
+      "url": "http://server01.ouvir.radio.br:8000/stream?type=.flv",
+      "status": 0,
+      "ok": false,
+      "error": "timeout"
+    },
+    {
+      "index": 353,
+      "name": "Truckers FM",
+      "group": "◆Rádio | 📻",
+      "url": "https://radio.truckers.fm/",
+      "status": 0,
+      "ok": false,
+      "error": "timeout"
+    },
+    {
+      "index": 354,
+      "name": "Vagalume Funk",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/1470154922349875/index.m3u8",
+      "status": 0,
+      "ok": false,
+      "error": "timeout"
+    },
+    {
+      "index": 355,
+      "name": "Vagalume Pagode",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8",
+      "status": 0,
+      "ok": false,
+      "error": "timeout"
+    },
+    {
+      "index": 356,
+      "name": "Vagalume Vibe",
+      "group": "◆Rádio | 📻",
+      "url": "https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8",
+      "status": 0,
+      "ok": false,
+      "error": "timeout"
+    },
+    {
+      "index": 357,
+      "name": "Ponte Internaciona da Amizade",
+      "group": "◆WebCam | 🎥",
+      "url": "https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/playlist.m3u8",
+      "status": 0,
+      "ok": false,
+      "error": "timeout"
+    },
+    {
+      "index": 358,
+      "name": "Ponte Internacional da Amizade",
+      "group": "◆WebCam | 🎥",
+      "url": "https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8",
+      "status": 0,
+      "ok": false,
+      "error": "timeout"
+    }
+  ]
+}
