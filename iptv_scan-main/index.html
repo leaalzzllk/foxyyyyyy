@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FOXY IPTV | Gerenciador de playlists</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="shell">
+    <header class="topbar">
+      <div class="brand"><span class="brand-mark">F</span><div><strong>FOXY IPTV</strong><small>central de playlists</small></div></div>
+      <div class="status"><span class="status-dot"></span><span id="statusText">Nenhuma lista carregada</span></div>
+    </header>
+
+    <section class="hero">
+      <div><p class="eyebrow">FOXY IPTV / PLAYLIST STUDIO</p><h1>Seu entretenimento<br><em>em um só lugar.</em></h1><p class="hero-copy">Organize canais, ajuste categorias e exporte uma playlist M3U limpa para o seu aplicativo IPTV.</p></div>
+      <div class="hero-stamp"><span id="heroCount">0</span><small>canais<br>na fila</small></div>
+    </section>
+
+    <section class="toolbar">
+      <label class="upload-button"><input id="fileInput" type="file" accept=".m3u,.m3u8,.txt"> <span>＋</span> Importar lista</label>
+      <button id="exportButton" class="button primary" disabled>Exportar M3U <span>↓</span></button>
+      <button id="dedupeButton" class="button" disabled>Remover duplicados</button>
+      <button id="clearButton" class="button ghost" disabled>Limpar</button>
+    </section>
+
+    <nav class="content-tabs" aria-label="Tipo de conteúdo">
+      <button id="channelsTab" class="content-tab active" type="button">Canais</button>
+      <button id="filmsTab" class="content-tab" type="button">Filmes <b id="filmsTabCount">0</b></button>
+    </nav>
+
+    <section id="dropZone" class="drop-zone"><div class="drop-icon">↑</div><div><strong>Solte sua playlist aqui</strong><p>Arquivos M3U, M3U8 ou TXT são aceitos</p></div></section>
+
+    <section class="workspace">
+      <aside class="sidebar">
+        <p class="section-label">VISÃO GERAL</p>
+        <div class="metric"><span>Total de canais</span><strong id="totalCount">0</strong></div>
+        <div class="metric"><span>Categorias</span><strong id="categoryCount">0</strong></div>
+        <div class="metric"><span>Com logo</span><strong id="logoCount">0%</strong></div>
+        <div class="divider"></div>
+        <p class="section-label">CATEGORIAS</p>
+        <div id="categoryList" class="category-list"><button class="category active" data-category="all"><span>Todos os canais</span><b>0</b></button></div>
+      </aside>
+
+      <section class="catalog">
+        <div class="catalog-head"><div><p class="section-label">CATÁLOGO</p><h2 id="catalogTitle">Canais da playlist</h2></div><div class="catalog-tools"><div class="search"><span>⌕</span><input id="searchInput" type="search" placeholder="Buscar canal..." disabled></div><select id="sortSelect" aria-label="Organizar catálogo" disabled><option value="name">A-Z</option><option value="name-desc">Z-A</option><option value="group">Categoria</option><option value="logo">Com logo</option></select></div></div>
+        <div id="emptyState" class="empty-state"><div class="empty-art">◎</div><h3>Comece importando sua lista</h3><p>Seu catálogo aparecerá aqui com nome, categoria e logo de cada canal.</p><label class="text-link">Escolher arquivo <input id="emptyFileInput" type="file" accept=".m3u,.m3u8,.txt"></label></div>
+        <div id="channelList" class="channel-list" hidden></div>
+      </section>
+    </section>
+    <footer><span>FOXY IPTV 1.0</span><span>Use somente conteúdos e URLs que você tem autorização para distribuir.</span></footer>
+  </main>
+  <dialog id="editDialog"><form method="dialog" id="editForm"><div class="dialog-head"><div><p class="section-label">EDITAR CANAL</p><h2 id="dialogTitle">Canal</h2></div><button value="cancel" class="close">×</button></div><label>Nome<input id="nameField" required></label><label>Categoria<input id="groupField" required></label><label>URL do stream<input id="urlField" type="url" required></label><label>URL do logo<input id="logoField" type="url"></label><div class="dialog-actions"><button value="cancel" class="button">Cancelar</button><button value="default" class="button primary">Salvar canal</button></div></form></dialog>
+  <script src="app.js"></script><script>document.querySelector('#sortSelect').addEventListener('change',event=>{state.sort=event.target.value;renderChannels();});document.querySelector('#filmsTab').addEventListener('click',()=>loadFilms());setInterval(checkForUpdates,30000);</script>
+</body>
+</html>

@@ -1,0 +1,1 @@
+{"name":"listaforge","version":"1.0.0","private":true,"description":"Gerenciador de playlists IPTV autorizadas com expiracao","scripts":{"start":"node server.js"},"engines":{"node":">=18"}}
