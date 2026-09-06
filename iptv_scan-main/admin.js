@@ -2,7 +2,8 @@ const form = document.querySelector('#subscriptionForm');
 const result = document.querySelector('#result');
 const list = document.querySelector('#subscriptionList');
 const keyValue = () => form.elements.adminKey.value.trim();
-const apiUrl = path => new URL(path, window.location.origin).href;
+const apiBase = 'https://foxyyyyyy-qhuk.onrender.com';
+const apiUrl = path => `${apiBase}${path}`;
 const escapeHtml = value => String(value).replace(/[&<>"']/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#039;' }[char]));
 
 async function readResponse(response) {
@@ -71,7 +72,7 @@ form.onsubmit = async event => {
     const response = await fetch(apiUrl('/api/subscriptions'), { method: 'POST', headers: { 'Content-Type': 'application/json', 'x-admin-key': key }, body: JSON.stringify(data) });
     const value = await readResponse(response);
     if (!response.ok) throw new Error(value.error || 'Não foi possível criar o acesso.');
-    const base = window.location.origin;
+    const base = apiBase;
     const m3uUrl = `${base}/get.php?username=${encodeURIComponent(value.username)}&password=${encodeURIComponent(value.password)}`;
     result.hidden = false;
     result.className = 'result';

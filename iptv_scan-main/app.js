@@ -1,3 +1,7 @@
+const apiBase='https://foxyyyyyy-qhuk.onrender.com';
+const apiUrl=path=>`${apiBase}${path}`;
+const nativeFetch=window.fetch.bind(window);
+window.fetch=(input,...options)=>nativeFetch(typeof input==='string'&&input.startsWith('/api/')?apiUrl(input):input,...options);
 const state={channels:[],films:[],filmsCount:0,filmsLoaded:false,channelsRevision:'',filmsRevision:'',view:'channels',category:'all',search:'',sort:'name',editing:-1};
 const $=selector=>document.querySelector(selector);
 const fileInput=$('#fileInput'), emptyFileInput=$('#emptyFileInput'), dropZone=$('#dropZone');
